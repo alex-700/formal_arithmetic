@@ -39,6 +39,6 @@ public class ProofOptimizer {
             ans.addExpression(statements.get(x).getExpression());
         }
         return ans;
-s    }
+    }
 
 }
